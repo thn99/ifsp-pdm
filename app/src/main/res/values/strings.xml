@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aula01-04</string>
+    <string name="welcome_message">Bem vindo!</string>
+    <string name="button_message">Clique</string>
+</resources>
